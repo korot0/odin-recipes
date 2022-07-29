@@ -1,3 +1,26 @@
-.img {
+body {
+    background-color: rgb(245, 228, 172);
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.u-list {
+    text-align: center;
+}
+
+a {
+    color: darkred;
+}
+
+a:hover {
+    color: black;
+}
+
+div {
+    font-family:'Courier New', Courier, monospace;
+    color: darkred;
     text-align: center;
 }
